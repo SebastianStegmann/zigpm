@@ -1,0 +1,2 @@
+# zigpm
+ziglang password manager
